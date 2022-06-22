@@ -1,6 +1,6 @@
 numpy==1.16.4; python_version < '3.6'
 numpy==1.19.1; python_version >= '3.6' and python_version < '3.9'
-numpy==1.21.1; python_version == '3.9'
+numpy==1.22.0; python_version == '3.9'
 
 cython==0.29.21
 decorator==4.4.0
